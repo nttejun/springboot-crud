@@ -1,0 +1,18 @@
+/*materialize css modifiy*/
+input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea {
+    border-bottom: none !important;
+}
+
+body{
+    border: 0;
+    outline: 0;
+}
+
+.table{
+    width: 80%;
+    margin: 30px;
+}
+
+.btn-frame{
+    margin: 30px;
+}
